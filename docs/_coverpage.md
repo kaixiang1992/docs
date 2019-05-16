@@ -2,7 +2,6 @@
 
 # kaixiang
 
-> 使用docsify构建
 
 * 微信: wangjun7355
 * 添加时备注: git docs
