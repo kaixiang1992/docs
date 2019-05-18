@@ -1,6 +1,10 @@
 # docs
 docs
 
+[docsify](https://docsify.js.org/#/zh-cn/)点击进入
+
+[emoji表情](https://unpkg.com/docsify@4.9.4/lib/plugins/emoji.js)点击进入
+
 ```
 ## 全局安装 docsify-cli
 npm i docsify-cli -g
