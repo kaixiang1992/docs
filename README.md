@@ -5,6 +5,8 @@ docs
 
 [emoji表情](https://unpkg.com/docsify@4.9.4/lib/plugins/emoji.js)点击进入
 
+[代码高亮](https://github.com/PrismJS/prism/tree/gh-pages/components)点击进入
+
 ```
 ## 全局安装 docsify-cli
 npm i docsify-cli -g
