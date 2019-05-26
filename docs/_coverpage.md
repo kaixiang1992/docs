@@ -4,8 +4,7 @@
 
 
 * 微信: wangjun7355
-* 添加时备注: git docs
-* 个人简介: vue.js, nodejs, koa 开发者
+* 个人简介: vue.js, nodejs, koa, EOS智能合约开发者
 
 [GitHub](https://github.com/kaixiang1992)
 [快速开始](/start)
