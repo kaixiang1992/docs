@@ -16,3 +16,24 @@ npm install zeromq
 ```text
 node -p -e "require('zeromq').version"
 ```
+## 所有支持socket模式 {docsify-ignore}
+
+```javascript
+export interface SocketTypes {
+    pub: number;
+    xpub: number;
+    sub: number;
+    xsub: number;
+    req: number;
+    xreq: number;
+    rep: number;
+    xrep: number;
+    push: number;
+    pull: number;
+    dealer: number;
+    router: number;
+    pair: number;
+    stream: number;
+}
+```
+
