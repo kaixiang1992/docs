@@ -1,5 +1,7 @@
 # 快速开始
 
+* EOS
+    * [scatter](/eos/start) :clock1030:`2019/06/13 21:45`
 * koa
     * [静态资源](/koa/static)
     * [assert单元测试](/koa/test-assert) :clock1030:`2019/05/18 16:30`
