@@ -2,6 +2,7 @@
 
 * EOS
     * [scatter](/eos/start) :clock1030:`2019/06/13 21:45`
+    * [测试账号](/eos/testaccount) :clock1030:`2019/06/24 22:53`
 * koa
     * [静态资源](/koa/static)
     * [assert单元测试](/koa/test-assert) :clock1030:`2019/05/18 16:30`
