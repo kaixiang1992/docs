@@ -71,3 +71,19 @@ wangkxtest21，余额：`1000.0000 EOS`
     "account": "wangkxtest21"
 }
 ```
+
+wangkxtest22，余额：`1000.0000 EOS`
+```javascript
+{
+    "msg": "succeeded", 
+    "keys": {
+        "active_key": {
+            "public": "EOS69REbVh4o67F5V2FeQJ5RhfY7HrqyLjaUyz4cvD4wG6QwsfhRr","private": "5JCq1N2E8M7qKowm69G1gUnCakyW4WnCTYKa5vnViCTNDygGThY"
+        }, 
+        "owner_key": {
+            "public": "EOS6k2j5G9fK8L2b3eAgLQjKsUKCasrWRikDBaVkWforEM6dRWJTP","private": "5J1ch7HMwdWq4HC7UG27sdFnZWXuTULzS3Tw7xBxUWrnWYdn9dn"
+        }
+    }, 
+    "account": "wangkxtest22"
+}
+```
