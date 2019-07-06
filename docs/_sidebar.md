@@ -17,3 +17,7 @@
     * [zeromq](/microservices/install)
     * [发布/订阅](/microservices/pubandsub)
     * [请求/响应](/microservices/reqandrep)
+* node程序部署
+    * [配置root权限账号](/deploy/start)
+    * [增强安全防护](/deploy/safety)
+    * [搭建nodejs环境](/deploy/node)

@@ -19,3 +19,7 @@
     * [zeromq](/microservices/install) :clock1030:`2019/05/29 22:43`
     * [发布/订阅](/microservices/pubandsub) :clock1030:`2019/05/29 23:58`
     * [请求/响应](/microservices/reqandrep) :clock1030:`2019/05/30 23:20`
+* node程序部署
+    * [配置root权限账号](/deploy/start) :clock1030:`2019/07/06 20:38`
+    * [增强安全防护--后续更新](/deploy/safety) :clock1030:`2019/07/06 22:34`
+    * [搭建nodejs环境](/deploy/node) :clock1030:`2019/07/06 22:53`
