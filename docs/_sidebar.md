@@ -21,3 +21,6 @@
     * [配置root权限账号](/deploy/start)
     * [增强安全防护](/deploy/safety)
     * [搭建nodejs环境](/deploy/node)
+    * [nodejs服务常驻](/deploy/pm2)
+* ES6
+    * [UTF-16码位](/es6/string)

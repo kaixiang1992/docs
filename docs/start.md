@@ -23,3 +23,6 @@
     * [配置root权限账号](/deploy/start) :clock1030:`2019/07/06 20:38`
     * [增强安全防护--后续更新](/deploy/safety) :clock1030:`2019/07/06 22:34`
     * [搭建nodejs环境](/deploy/node) :clock1030:`2019/07/06 22:53`
+    * [nodejs服务常驻](/deploy/pm2) :clock1030:`2019/07/07 10:35`
+* ES6
+    * [UTF-16码位](/es6/string) :clock1030:`2019/07/08 22:35`
