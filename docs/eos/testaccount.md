@@ -1,5 +1,37 @@
 # EOS测试账号
 
+wealthplan11，余额：`1000.0000 EOS`
+```javascript
+{
+    "msg": "succeeded", 
+    "keys": {
+        "active_key": {
+            "public": "EOS6UMFsUGJNkvRUsmmPEYXBBXsAsJHGhquWbAi4tCZKjW3JdeZs9", "private": "5J9WJVKj8h7htVBuqWrn76jkT9aSKFu2vECPBbChBCN4nHWcR2d"
+        }, 
+        "owner_key": {
+            "public": "EOS6n9gqj6zoxkFZwVgnpB6nM2ovJpxoVpsVr8NZESuzgbfVz3A6E", "private": "5KTG18q79qfUJmiG8SjtAdouxEXbJ7rpXAmio4Gcnzrcfbsi48V"
+        }
+    }, 
+    "account": "wealthplan11"
+}
+```
+
+wealthplan12，余额：`1000.0000 EOS`
+```javascript
+{
+    "msg": "succeeded", 
+    "keys": {
+        "active_key": {
+            "public": "EOS61aiP6PKmqTW3JLKZUt3f7ZwzXNksxYTueJRfZ8rmDjjvJjQu2", "private": "5Jvb1fjUHydFmRy8Pf3yHn5jicdQeXS7Z8M4qSHztcf2jG6J1SP"
+        }, 
+        "owner_key": {
+            "public": "EOS5poxt9YWkrUeex5BHQgtJXRaNFTgywe9zzBhpCYz6drm4syKjr", "private": "5Hvtq7fcfo7YVdXja8SySX1KK1oL8zy2Yn5GikGeb4ksVK4DWPh"
+        }
+    }, 
+    "account": "wealthplan12"
+}
+```
+
 wangkxtest12，余额：`225.0000 EOS`
 ```javascript
 {
