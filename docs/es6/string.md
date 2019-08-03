@@ -71,7 +71,7 @@ console.log(normalized);
 ```javascript
  let values = ['a','anc','abc','ae','eə','be','bee','zee','eez'];
 values.sort((first,second) => {
-    let firstnormalized = first.normalize(), secondnormalized second.normalize();
+    let firstnormalized = first.normalize(), secondnormalized = second.normalize();
     if(firstnormalized < secondnormalized){
         return -1;
     }else if(firstnormalized == secondnormalized){
@@ -82,4 +82,29 @@ values.sort((first,second) => {
 });
 // TODO: ["a", "abc", "ae", "anc", "be", "bee", "eez", "eə", "zee"]
 console.log(values);
+```
+
+#### 字符串中的字串识别  {docsify-ignore}
+
+!> 功能类似indexOf(),不会返回位置，只会返回true和false
+
+* includes()
+* startsWith()
+* endsWith()
+
+#### repeat()方法  {docsify-ignore}
+
+!> 接受Number类型的参数，表示该字符串的重复次数返回新字符串。
+
+代码格式化工具中创建缩进级别
+
+```javascript
+console.log('x'.repeat(3)); //TODO: xxx
+console.log('hello'.repeat(3)); //TODO: hellohellohello
+
+// TODO: 指定缩进空格数量
+let indent = " ".repeat(4), indentlevel = 0;
+// TODO: 增加缩进
+let newindent = indent.repeat(++indentlevel);
+console.log(`${newindent}s`); //TODO:     s
 ```

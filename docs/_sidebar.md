@@ -23,4 +23,4 @@
     * [搭建nodejs环境](/deploy/node)
     * [nodejs服务常驻](/deploy/pm2)
 * ES6
-    * [UTF-16码位](/es6/string)
+    * [字符串](/es6/string)

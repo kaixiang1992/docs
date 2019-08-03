@@ -1,5 +1,23 @@
 # EOS测试账号
 
+wealthwang11，余额：`1000.0000 EOS`
+```javascript
+{
+    "msg": "succeeded", 
+    "keys": {
+        "active_key": {
+            "public": "EOS6jRZ67QmnyRm4anqbxGK7nr2egVyoQZh6AaTaXu2vd3vfTbniX", 
+            "private": "5JAvUj3jyE4krYkEU23bmHQ5dUehd5NgkzJ278GBdgwbyHcr8Ng"
+        }, 
+        "owner_key": {
+            "public": "EOS7TsUC3dhMZ9pFM7iFvrT2X1SJ4UzQBHE4tQE8CxHkFoSf32JaX", 
+            "private": "5J7dKQKDVKH2qgBiQyAs2v21cs9VxM23XFoJAto8pnWpT69xywV"
+        }
+    }, 
+    "account": "wealthwang11"
+}
+```
+
 wealthplan11，余额：`1000.0000 EOS`
 ```javascript
 {
