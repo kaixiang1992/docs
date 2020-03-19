@@ -18,14 +18,33 @@
     .app-name-link img{
       width: 60px;
     }
+    body{
+      position: relative;
+    }
+    .fixed-record-number{
+      position: fixed;
+      bottom: 10px;
+      right: 10px;
+      z-index: 10;
+      padding: 5px;
+      background-color: rgba(255, 255, 255, 0.8);
+      border-radius: 3px;
+    }
+    .fixed-record-number a{
+      text-decoration: none;
+      color: #42b983;
+    }
   </style>
 </head>
 <body>
   <div id="app"></div>
+  <div class="fixed-record-number">
+    <a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">浙ICP备17002440号-3</a>
+  </div>
   <script>
     window.$docsify = {
       name: 'docsify',
-      nameLink: '/docs',
+      nameLink: '/',
       repo: 'https://github.com/kaixiang1992', //TODO: 仓库地址
       loadSidebar: true, //TODO: 侧边栏
       subMaxLevel: 2, //TODO: 最大二级菜单
